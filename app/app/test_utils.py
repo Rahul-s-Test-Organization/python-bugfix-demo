@@ -1,4 +1,4 @@
-from app.utils import divide
+from app.app.utils import divide
 
 
 def test_divide():
